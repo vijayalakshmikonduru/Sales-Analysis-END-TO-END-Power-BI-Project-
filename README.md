@@ -1,10 +1,12 @@
 📊 Sales Performance Analysis Dashboard
+
 📌 Project Overview
 
 This project focuses on analyzing sales performance using Excel and Power BI.
 Instead of only learning theory, I built this project to apply concepts practically by working with real data.
 
 🔄 Workflow
+
 1⃣ Data Cleaning – Microsoft Excel
 
 Cleaned raw sales dataset
